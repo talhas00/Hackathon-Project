@@ -1,5 +1,5 @@
 # Hackathon-Project
-# 🫶 MonBondhu
+# MonBondhu
 **“Your Mind Friend” — A community health & mental well-being app for rural Bangladesh**  
 Inspired by Hablu’s journey from campus chaos to corporate crusade 🌾💻  
 
@@ -46,7 +46,7 @@ So MonBondhu doesn’t just inform — it **understands**, **simplifies**, and *
 
 ## 📱 Prototype Preview
 
-**Figma Link:** [https://www.figma.com/slides/evwGKkQDFJGpJSA61daTpU/Untitled?node-id=1-42&t=m7CxMgwoOHW2TLpw-1](#)  
+**Figma Link:** [https://www.figma.com/site/GR2zvK0abCUIkpwePKjTpF/Untitled?node-id=0-4&t=TiZTJsvi3wpXOjt6-1](#)  
 
 **Contains:**  
 - Wireframes (Low-Fidelity)  
